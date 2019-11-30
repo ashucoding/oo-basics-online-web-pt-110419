@@ -16,12 +16,12 @@ def properties
   @properties
 end
 
-def page_count=(num)
-  @page_count = num
+def color=(color)
+  @color = color
 end
 
-def page_count
-  @page_count
+def color
+  @color
 end
 
 def genre=(genre)
