@@ -32,6 +32,16 @@ def size
   @size
 end
 
+def material=(material)
+  @material = material
+end
+
+def material
+  @material
+end
+
+def
+
 def turn_page
   puts "Flipping the page...wow, you read fast!"
 end
