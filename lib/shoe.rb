@@ -25,11 +25,11 @@ def color
 end
 
 def size=(num)
-  @size = 
+  @size = num
 end
 
-def genre
-  @genre
+def size
+  @size
 end
 
 def turn_page
