@@ -24,8 +24,8 @@ def color
   @color
 end
 
-def genre=(genre)
-  @genre = genre
+def size=(num)
+  @size = 
 end
 
 def genre
