@@ -8,12 +8,12 @@ class Shoe
     @brand
 end
 
-def author=(author)
-  @author = author
+def properties=(properties)
+  @properties = properties
 end
 
-def author
-  @author
+def properties
+  @properties
 end
 
 def page_count=(num)
